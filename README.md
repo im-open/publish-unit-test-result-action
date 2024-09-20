@@ -1,3 +1,5 @@
+#Repo archived as it is not being used per ITHD-256234
+
 # GitHub Action to Publish Test Results
 
 [![CI/CD](https://github.com/im-open/publish-unit-test-result-action/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/im-open/publish-unit-test-result-action/actions/workflows/ci-cd.yml)
