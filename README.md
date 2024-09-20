@@ -1,4 +1,4 @@
-#Repo archived as it is not being used per ITHD-256234
+# Repo archived as it is not being used per ITHD-256234
 
 # GitHub Action to Publish Test Results
 
